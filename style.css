@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:600,700');
+
+body {
+	background-color: #DA938F;
+	margin: 0;
+}
+
+.floated_img
+{
+    width: 50%;
+    float:left; /* add this */
+}
+
+.floated_img2
+{
+    overflow: hidden; /* if you don't want #second to wrap below #first */
+}
+
+.row1{
+	width: 100%;
+    overflow: hidden; 
+}
+img{
+	height: 93.5%;
+}
+	
