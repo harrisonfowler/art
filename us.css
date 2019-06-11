@@ -25,4 +25,8 @@ img{
 	width: 50%;
 }
 
-	
+button{
+padding: 0;
+border: none;
+background: none;
+}

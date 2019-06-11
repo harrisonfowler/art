@@ -29,4 +29,8 @@ body {
 	width: 100%;
 }
 
-	
+	button{
+ padding: 0;
+border: none;
+background: none;
+}
